@@ -30,7 +30,7 @@ src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logo
 |   -  |     -  | [GitHub Blog](https://ajung7038.github.io/) |  -  |
 
 
-## Study Plane
+## Study Plan
 
 
 | 주차 | 일자                     | 내용                                                                                      |
